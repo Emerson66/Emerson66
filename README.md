@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
     
 <h1 align="center">Hi 👋, I'm Emerson Reis</h1>
 <h3 align="center">A developer from Roraima</h3>
