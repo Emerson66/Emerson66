@@ -1,20 +1,17 @@
-    
-<h1 align="center">Hi 👋, I'm Emerson Reis</h1>
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Emerson66&repo=Emerson66&countColorcountColor)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 <h3 align="center">A developer from Roraima</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emerson66&label=Profile%20views&color=0e75b6&style=flat" alt="emerson66" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emerson66" alt="emerson66" /></a> </p>
 
 
-
-- 🌱 I’m currently learning **Spring Security, React and design pattern**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Emerson66](https://github.com/Emerson66)
 
-- 📝 I regularly write articles on development
 
-- 💬 Ask me about **Java, Spring Boot and algorithms**
+
+- 💬 Ask me about **Java and Spring Boot**
 
 
 
@@ -27,10 +24,9 @@
 
 
 
-<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emerson66&show_icons=true&locale=en&layout=compact" alt="emerson66" /></p>
-<br>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=emerson66&show_icons=true&locale=en" alt="emerson66" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=emerson66&count_private=true&show_icons=true" alt="emerson66" /></p>
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson66&" alt="emerson66" /></p>
