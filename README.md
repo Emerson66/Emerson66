@@ -1,16 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emerson66&label=Profile%20views&color=0e75b6&style=flat" alt="emerson Reis" /> </p>
 
-
-
-
-
-
-
-
-
-
-
-
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Emerson66&repo=Emerson66&countColorcountColor)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 <h3 align="center">A developer from Roraima</h3>
 
